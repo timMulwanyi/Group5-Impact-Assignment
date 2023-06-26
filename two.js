@@ -19,3 +19,4 @@ function ageCheck () {
 
 let age = ageCheck()
 console.log(age);
+

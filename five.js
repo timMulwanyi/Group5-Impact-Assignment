@@ -40,3 +40,4 @@ let y = [3, 0, 2, 9, 'p', 7, 6, 't']
 
 let p = evenOddChar(y)
 console.log(p);
+

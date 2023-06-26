@@ -17,3 +17,4 @@ let y = [4, 3, 4] // [3, 4]
 let d = duplicate(y)
 
 console.log(d);
+

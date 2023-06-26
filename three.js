@@ -15,3 +15,4 @@ let array = [3, 2, 4]
 let targ = 6
 let o = twoSum(array, targ)
 console.log(o);
+

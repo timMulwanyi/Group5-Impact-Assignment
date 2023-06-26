@@ -15,3 +15,4 @@ let t = ['racecar', 'rar', 'ada', 'drive']
 
 let r = firstPalindrome(t)
 console.log(r);
+

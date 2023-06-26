@@ -17,3 +17,4 @@ let y = 'moses'
 let x = 'kamir'
 let m = fizzBuzz(y, x)
 console.log(m);
+

@@ -21,3 +21,4 @@ let m = ['aevbnm', 'aerty', 'aevbnmd']
 let k = longestPrefix(m)
 
 console.log(k);
+
